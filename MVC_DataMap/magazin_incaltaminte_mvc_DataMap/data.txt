@@ -1,0 +1,3 @@
+Ion Popescu, ion@example.com, Pregatita, Pantofi sport, 250.0, Adidasi casual, 200.0, 
+Maria Ionescu, maria@example.com, Preluata, Sandale dama, 180.0, 
+Alexandru Vasile, alex@example.com, Preluata, Cizme iarna, 300.0, 

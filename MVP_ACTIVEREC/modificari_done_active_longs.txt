@@ -1,0 +1,20 @@
+1. MAIN.java -> SAME
+   Client.java -> SAME
+   Animal.java*
+   Solicitare.java -> diferente la:
+			ATRIBUTE
+			saveAllToFile (atribute!! vectori/liste)
+			loadFromFile (atribute!! vectori/liste)
+   
+
+2. Clasele din State si Interfata -> 
+-> noile stari si mesajele in functie de fiecare
+
+
+3. !! ConsoleView.java (*->to modify)
+->*afiseazaSolicitari() // cu lista in Service/fara lista in cabinet
+->modificaStareSolicitare --> SAME
+->citesteDinFisier --> SAME
+->afiseazaMeniu --> SAME
+->cautaDupaNumeClient --> SAME
+-->filtreazaDupaStare --> SAME

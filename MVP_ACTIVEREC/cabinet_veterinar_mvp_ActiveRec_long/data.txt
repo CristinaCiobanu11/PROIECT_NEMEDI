@@ -1,0 +1,3 @@
+Ion Popescu, Leo, Strada X, Acceptata, 0, true
+Maria Ionescu, Max, Strada Y, Acceptata, 30, true
+Alexandru Vasile, Bella, Strada Z, Respinsa, 20, false

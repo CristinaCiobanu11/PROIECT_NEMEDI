@@ -1,0 +1,3 @@
+Ion Popescu, Schimbare ulei, Strada A, Transmisa, 0, true, ulei, filtru, 150.0
+Maria Ionescu, Defecțiune motor, Strada B, Respinsa, 30, false, bujii, ulei, 250.0
+Alexandru Vasile, Reparație frâne, Strada C, Acceptata, 45, true, discuri, placute, 350.0

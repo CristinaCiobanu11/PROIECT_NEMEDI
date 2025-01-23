@@ -1,0 +1,7 @@
+1,mesaj1,null,1,mouse,100
+2,mesaj2,Inregistrata,2,tastatura,200
+3,mesaj3,state.InAnaliza@51565ec2,3,monitor,300
+4,mesaj4,Inregistrata,4,casti,400
+8,mesaj1,Inregistrata,1,produs1|produs2,100
+9,mesaj1,Inregistrata,1,produs1|produs2,100
+6,blabla,Inregistrata,5,mouse,100

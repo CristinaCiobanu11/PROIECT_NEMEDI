@@ -1,0 +1,52 @@
+1. Modificarea stărilor comenzilor
+
+prima:
+//PreluataState.java:
+public class PreluataState implements ComandaState {
+    @Override
+    public String getState() {
+        return "Preluată";
+    }
+
+    @Override
+    public void handle(Comanda comanda) {
+        comanda.setState(new PregatitaState());  // Schimbă starea la "Pregătită"
+    }
+}
+
+ultima:
+//PlasataState.java
+public class PlasataState implements ComandaState {
+    @Override
+    public String getState() {
+        return "Plasată";
+    }
+
+    @Override
+    public void handle(Comanda comanda) {
+        // Starea finală, nu mai trece la altă stare
+    }
+}
+
+
+2. Modificarea fișierului de input data.txt
+Ion Popescu, ion@example.com, Pantofi sport, 150.0, Sandale, 80.0
+Maria Ionescu, maria@example.com, Botine, 120.0
+Alexandru Vasile, alex@example.com, Ghete de iarnă, 200.0
+
+
+4. Modificarea ConsoleView.java
+1. if (comanda.getStare().equals("Preluata")) {
+                comanda.setState(new PregatitaState());
+            } else if (comanda.getStare().equals("Pregatita")) {
+                comanda.setState(new PlatitaState());
+            } else if (comanda.getStare().equals("Platita")) {
+                comanda.setState(new PlasataState());
+            } else if (comanda.getStare().equals("Plasata")) {
+                System.out.println("Comanda este deja în starea finală (Plasată).");
+            } else {
+                System.out.println("Stare invalidă!");
+            }
+
+si 2. // Setăm starea inițială la "Preluată"
+         comanda.setState(new PreluataState());

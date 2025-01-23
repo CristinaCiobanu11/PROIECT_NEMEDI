@@ -1,0 +1,3 @@
+Ion Popescu, ion@example.com, Pix, 5.0, Caiet, 10.0, Platita
+Maria Ionescu, maria@example.com, Rigla, 15.0, Platita
+Alexandru Vasile, alex@example.com, Creion, 2.0, Platita

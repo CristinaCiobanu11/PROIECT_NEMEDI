@@ -1,0 +1,3 @@
+Ion Popescu, ion@example.com, Crema anti-rid, 50.0, Rimel waterproof, 30.0
+Maria Ionescu, maria@example.com, Fard de pleoape, 40.0
+Alexandru Vasile, alex@example.com, Ser facial hidratant, 60.0

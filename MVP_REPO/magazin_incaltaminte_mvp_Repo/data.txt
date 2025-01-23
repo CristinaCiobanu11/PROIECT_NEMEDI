@@ -1,0 +1,3 @@
+Ion Popescu, ion@example.com, Pantofi sport, 150.0, Sandale, 80.0
+Maria Ionescu, maria@example.com, Botine, 120.0
+Alexandru Vasile, alex@example.com, Ghete de iarnă, 200.0
